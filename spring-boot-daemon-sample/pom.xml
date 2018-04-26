@@ -40,9 +40,9 @@
 		<dependency>
 			<groupId>com.sun.winsw</groupId>
 			<artifactId>winsw</artifactId>
+			<version>2.1.2</version>
 			<classifier>bin</classifier>
 			<type>exe</type>
-			<scope>provided</scope>
 		</dependency>
 	</dependencies>
 
