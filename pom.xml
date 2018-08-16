@@ -64,12 +64,12 @@
 		<repository>
 			<id>deployment</id>
 			<name>maven-releases</name>
-			<url>http://fl1qvmjenkins01:8081/repository/maven-releases/</url>
+			<url>http://ga3pvmcicd02:8081/repository/maven-releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>deployment</id>
 			<name>maven-snapshots</name>
-			<url>http://fl1qvmjenkins01:8081/repository/maven-snapshots/</url>
+			<url>http://ga3pvmcicd02:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
